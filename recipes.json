@@ -28,6 +28,102 @@
   ],
   "recipes": [
     {
+      "id": "blueberry-scones",
+      "title": "Blueberry Scones",
+      "category": "desserts",
+      "rating": 5,
+      "servings": 8,
+      "prepMinutes": 20,
+      "cookMinutes": 22,
+      "photo": "images/Blueberry-Scones.jpg",
+      "sample": false,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "All-Purpose Flour",
+          "amount": 2,
+          "unit": "cups",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Granulated Sugar",
+          "amount": 3,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Baking Powder",
+          "amount": 2.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "quantityText": "To taste",
+          "note": ""
+        },
+        {
+          "name": "Cold unsalted butter, but into small pieces",
+          "amount": 0.5,
+          "unit": "cups",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Buttermilk",
+          "amount": 0.5,
+          "unit": "cups",
+          "quantityText": "",
+          "note": "Or Heavy Cream with 1/2 tbsp of Vinegar"
+        },
+        {
+          "name": "Egg",
+          "amount": 1,
+          "unit": "",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Egg",
+          "amount": 1,
+          "unit": "",
+          "quantityText": "",
+          "note": "For Egg Wash"
+        },
+        {
+          "name": "Sanding Sugar",
+          "amount": null,
+          "unit": "",
+          "quantityText": "Sprinkling",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Preheat oven to 375 degrees F. Line a baking sheet with parchment.",
+        "Whisk together flours, sugar, baking powder and salt in a large bowl. Cut in butter with a pastry blender or rub in with your fingers, until the mixture has the texture of coarse meal.",
+        "Whisk together buttermilk, 1 egg, and the vanilla. Drizzle over flour mixture, and stir lightly with a fork until dough comes together but a small amount of flour remains in the bowl.",
+        "Turn out dough onto a work surface, and gently knead dough once or twice just to incorporate flour. Pat dough into a 1-inch thick round. Cut into 12 wedges. Transfer to prepared baking sheet. Brush with egg wash, and sprinkle with sanding sugar. Bake until golden brown and cooked through, about 22 minutes. Transfer scones to wire rack to cool."
+      ],
+      "notes": [
+        "If you do not have buttermilk readily on hand you can quickly substitute it with heavy cream. You will want to add some vinegar to the heavy cream to “curdle” the milk and give it the acidic quality of buttermilk. For 1 cup of heavy cream add 1 tablespoon vinegar.",
+        "Use fresh baking powder. Buttermilk scones depend on a reaction between baking powder and buttermilk to get a beautiful rise. This means you might want to test your baking powder before using it to make sure it’s fresh. Simply stir together 1 cup of warm water with 2 teaspoons of baking powder- if it fizzes you are good to go!",
+        "Don’t over-work the dough. The longer you stir the dough together the more you activate the gluten in the flour. This results in a tough, less flaky scone.",
+        "Store uneaten scones in an air-tight container for 1-2 days. If you think it will be longer than 2 days before you finish your scones I highly recommend freezing them."
+      ]
+    },
+    {
       "id": "lemon-pasta",
       "title": "Lemon & Parmesan Pasta",
       "category": "meals",
