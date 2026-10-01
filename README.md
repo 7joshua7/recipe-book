@@ -20,6 +20,16 @@ The repository, recipes, photos, and website are public. Viewing needs no GitHub
 
 The templates are reference files; the app reads only `recipes.json`.
 
+### Serving Size Examples for JSON
+| Fraction | JSON amount |
+|---|---|
+| ¼ | 0.25 |
+| ⅓ | 0.333333 |
+| ½ | 0.5 |
+| ⅔ | 0.666667 |
+| ¾ | 0.75 |
+| 1¾ | 1.75 |
+
 ### Recipe fields
 
 | Field | What to enter |
