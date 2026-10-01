@@ -1,0 +1,35 @@
+{
+  "id": "your-recipe-id",
+  "title": "Your recipe title",
+  "category": "meals",
+  "rating": 4.5,
+  "servings": 4,
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "photo": "",
+  "sample": false,
+  "tags": [],
+  "ingredients": [
+    {
+      "name": "Ingredient name",
+      "amount": 1,
+      "unit": "cup",
+      "quantityText": "",
+      "note": ""
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "unit": "",
+      "quantityText": "To taste",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "First step.",
+    "Next step."
+  ],
+  "notes": [
+    "Optional note."
+  ]
+}

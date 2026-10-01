@@ -1,0 +1,254 @@
+{
+  "appName": "Our Recipe Book",
+  "categories": [
+    {
+      "id": "meals",
+      "name": "Meals",
+      "photo": "",
+      "color": "#91b7aa"
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "photo": "",
+      "color": "#c88664"
+    },
+    {
+      "id": "sauces",
+      "name": "Sauces",
+      "photo": "",
+      "color": "#8496b2"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "photo": "",
+      "color": "#ccb65d"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "lemon-pasta",
+      "title": "Lemon & Parmesan Pasta",
+      "category": "meals",
+      "rating": 4.5,
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "photo": "",
+      "sample": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "dry pasta",
+          "amount": 12,
+          "unit": "oz",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "lemon",
+          "amount": 1,
+          "unit": "",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "grated Parmesan",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "salt",
+          "amount": null,
+          "unit": "",
+          "quantityText": "To taste",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Cook pasta in salted water according to the package instructions. Reserve a cup of pasta water before draining.",
+        "Melt butter over low heat. Add lemon zest and a little lemon juice.",
+        "Toss in the pasta and Parmesan, adding pasta water gradually until the sauce coats the pasta. Taste and adjust seasoning."
+      ],
+      "notes": [
+        "Sample content for testing the app. Replace it with your usual recipe.",
+        "When scaling, taste the lemon and seasoning as you go."
+      ]
+    },
+    {
+      "id": "chocolate-brownies",
+      "title": "Chocolate Brownies",
+      "category": "desserts",
+      "rating": 5,
+      "servings": 8,
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "photo": "",
+      "sample": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "sugar",
+          "amount": 1,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Heat the oven to 350\u00b0F. Line an 8-inch square pan.",
+        "Melt butter and let it cool slightly. Stir in sugar and eggs, then fold in cocoa and flour.",
+        "Spread into the prepared pan. Bake for about 25 minutes, checking for moist crumbs. Cool before slicing."
+      ],
+      "notes": [
+        "Scaling quantities may require a different pan and baking time.",
+        "A fractional egg can be measured by beating it first."
+      ]
+    },
+    {
+      "id": "yogurt-sauce",
+      "title": "Herby Yogurt Sauce",
+      "category": "sauces",
+      "rating": 4,
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 0,
+      "photo": "",
+      "sample": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "plain Greek yogurt",
+          "amount": 1,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "chopped fresh herbs",
+          "amount": 2,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1,
+          "unit": "",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "salt and pepper",
+          "amount": null,
+          "unit": "",
+          "quantityText": "To taste",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Finely grate the garlic.",
+        "Mix all ingredients in a bowl. Taste and adjust the seasoning.",
+        "Chill until ready to serve."
+      ],
+      "notes": [
+        "Sample recipe. Use your own storage guidance."
+      ]
+    },
+    {
+      "id": "lemonade",
+      "title": "Fresh Lemonade",
+      "category": "drinks",
+      "rating": 3.5,
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 0,
+      "photo": "",
+      "sample": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "lemon juice",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "sugar",
+          "amount": 0.25,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "water",
+          "amount": 3,
+          "unit": "cups",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "ice",
+          "amount": null,
+          "unit": "",
+          "quantityText": "As needed",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Stir sugar into a little warm water until dissolved.",
+        "Add the remaining water and lemon juice. Taste and adjust.",
+        "Serve over ice."
+      ],
+      "notes": [
+        "Adjust sweetness to your preference."
+      ]
+    }
+  ]
+}
