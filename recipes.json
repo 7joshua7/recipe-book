@@ -124,61 +124,117 @@
       ]
     },
     {
-      "id": "ocolate-bread",
-      "title": "ocolate Chip Bread",
-      "category": "desserts",
-      "rating": 4.5,
-      "servings": 4,
+      "id": "chicken-piccata",
+      "title": "Chicken Piccata",
+      "category": "meals",
+      "rating": 5,
+      "servings": 6,
       "prepMinutes": 10,
-      "cookMinutes": 15,
-      "photo": "",
-      "sample": true,
+      "cookMinutes": 30,
+      "photo": "images/piccata.png",
+      "sample": false,
       "tags": [],
       "ingredients": [
         {
-          "name": "dry pasta",
-          "amount": 12,
-          "unit": "oz",
-          "quantityText": "",
-          "note": ""
-        },
-        {
-          "name": "butter",
+          "name": "chicken cutlets or breasts, boneless, skinless, butterflied to create thinner pieces",
           "amount": 2,
-          "unit": "tbsp",
+          "unit": "lbs",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "lemon",
-          "amount": 1,
-          "unit": "",
-          "quantityText": "",
-          "note": ""
-        },
-        {
-          "name": "grated Parmesan",
+          "name": "freshly cracked black pepper",
           "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Sea Salt",
+          "amount": 1.75,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Flour",
+          "amount": 1,
           "unit": "cup",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "salt",
+          "name": "Unsalted Butter",
+          "amount": 10,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Extra-Virgin Olive Oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Shallot",
+          "amount": 1,
+          "unit": "",
+          "quantityText": "Finely Chopped",
+          "note": ""
+        },
+        {
+          "name": "Minced Garlic (from 4-6 cloves)",
+          "amount": 1,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Chicken Stock",
+          "amount": 1.5,
+          "unit": "cups",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Lemon Zest (1 Lemon)",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "Plus more to taste",
+          "note": ""
+        },
+        {
+          "name": "Fresh Lemon Juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Capers",
+          "amount": 2,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": "Drained"
+        },
+        {
+          "name": "Fresh Parley, Chopped",
           "amount": null,
           "unit": "",
-          "quantityText": "To taste",
-          "note": ""
+          "quantityText": "",
+          "note": "Optional"
         }
       ],
       "steps": [
-        "Cook pasta in salted water according to the package instructions. Reserve a cup of pasta water before draining.",
-        "Melt butter over low heat. Add lemon zest and a little lemon juice.",
-        "Toss in the pasta and Parmesan, adding pasta water gradually until the sauce coats the pasta. Taste and adjust seasoning."
+        "Season the chicken all over with the pepper and 1½ teaspoons of the salt. Place the flour in a shallow bowl. Dip each piece of the chicken in the flour, turning to coat and shake off any excess. Discard the flour when finished dredging.",
+        "Heat 3 tablespoons butter and 2 tablespoons oil in a large skillet set over medium-high until the butter has melted. Add half of the chicken and cook until golden brown and cooked through, about 2-3 minutes per side. Repeat with the remaining chicken, adding more butter and oil to the skillet as needed. Transfer the chicken to a serving platter.",
+        "Add the shallot to the pan and cook, stirring occasionally, until soft and fragrant, about 2 minutes. Add the garlic and cook, stirring, until fragrant, 1 minute more. Stir in the stock and simmer until the liquid is reduced by half, 4-5 minutes. Reduce heat to low, then stir in 4 tablespoons of the butter, capers, lemon zest, lemon juice and the remaining ½ teaspoon of salt.",
+        "Pour the sauce over the chicken and garnish with parsley before serving."
       ],
       "notes": [
-        "Sample content for testing the app. Replace it with your usual recipe.",
-        "When scaling, taste the lemon and seasoning as you go."
+        "Recipe Page: https://themodernproper.com/chicken-piccata"
       ]
     },
     {
@@ -273,8 +329,8 @@
       ],
       "steps": [
         "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan, preferably glass.",
-        "<br>Mix flour, baking powder, baking soda, and salt in a bowl. ",
-        "<br><br>Stir bananas, milk, and cinnamon in another bowl.",
+        "Mix flour, baking powder, baking soda, and salt in a bowl. ",
+        "Stir bananas, milk, and cinnamon in another bowl.",
         "Beat sugar and butter together in a third bowl with an electric mixer until light and fluffy; add eggs one at a time, beating well after each addition.",
         "Stir banana mixture into butter mixture; mix in flour mixture until just blended. Fold in chocolate chips; pour batter into the prepared loaf pan.",
         "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack before slicing.",
