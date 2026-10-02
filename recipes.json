@@ -911,35 +911,35 @@
           "amount": 0.5,
           "unit": "cup",
           "quantityText": "",
-          "note": "Wet"
+          "note": "Wet Ingredients"
         },
         {
           "name": "Sugar",
           "amount": 0.5,
           "unit": "cup",
           "quantityText": "",
-          "note": "Wet"
+          "note": "Wet Ingredients"
         },
         {
           "name": "Brown Sugar",
           "amount": 0.5,
           "unit": "cup",
           "quantityText": "",
-          "note": "Wet"
+          "note": "Wet Ingredients"
         },
         {
           "name": "1 Large Egg + 1 Egg Yolk",
           "amount": null,
           "unit": "",
           "quantityText": "",
-          "note": "Wet"
+          "note": "Wet Ingredients"
         },
         {
           "name": "Vanilla Extract",
           "amount": 1.5,
           "unit": "tsp",
           "quantityText": "",
-          "note": "Wet"
+          "note": "Wet Ingredients"
         }
       ],
       "steps": [
