@@ -4,7 +4,7 @@
     {
       "id": "meals",
       "name": "Meals",
-      "photo": "",
+      "photo": "images/meals_category.jpg",
       "color": "#91b7aa"
     },
     {
@@ -16,13 +16,13 @@
     {
       "id": "sauces",
       "name": "Sauces",
-      "photo": "",
+      "photo": "images/sauces_category.jpg",
       "color": "#8496b2"
     },
     {
       "id": "drinks",
       "name": "Drinks",
-      "photo": "",
+      "photo": "images/drinks_category.jpg",
       "color": "#ccb65d"
     }
   ],
@@ -124,9 +124,9 @@
       ]
     },
     {
-      "id": "lemon-pasta",
-      "title": "Lemon & Parmesan Pasta",
-      "category": "meals",
+      "id": "banana-chocolate-bread",
+      "title": "Banana Chocolate Chip Bread",
+      "category": "desserts",
       "rating": 4.5,
       "servings": 4,
       "prepMinutes": 10,
@@ -182,57 +182,103 @@
       ]
     },
     {
-      "id": "chocolate-brownies",
-      "title": "Chocolate Brownies",
+      "id": "banana-chocolate-bread",
+      "title": "Banana Chocolate Chip Bread",
       "category": "desserts",
       "rating": 5,
-      "servings": 8,
+      "servings": 10,
       "prepMinutes": 15,
-      "cookMinutes": 25,
-      "photo": "",
-      "sample": true,
+      "cookMinutes": 95,
+      "photo": "images/banana_choc_bread.jpg",
+      "sample": false,
       "tags": [],
       "ingredients": [
         {
-          "name": "butter",
-          "amount": 0.5,
-          "unit": "cup",
+          "name": "All Purpose Flour",
+          "amount": 2,
+          "unit": "cups",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "sugar",
+          "name": "Baking Powder",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Baking Soda",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ripe Bananas",
+          "amount": 3,
+          "unit": "",
+          "quantityText": "",
+          "note": "Mashed"
+        },
+        {
+          "name": "Milk",
+          "amount": 1,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ground Cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "White Sugar",
           "amount": 1,
           "unit": "cup",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "eggs",
+          "name": "Butter",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": "Softened"
+        },
+        {
+          "name": "Eggs",
           "amount": 2,
           "unit": "",
           "quantityText": "",
-          "note": ""
+          "note": "Large"
         },
         {
-          "name": "cocoa powder",
-          "amount": 0.3333333333333333,
-          "unit": "cup",
-          "quantityText": "",
-          "note": ""
-        },
-        {
-          "name": "flour",
-          "amount": 0.5,
+          "name": "Semi-sweet Chocolate Chips",
+          "amount": 1,
           "unit": "cup",
           "quantityText": "",
           "note": ""
         }
       ],
       "steps": [
-        "Heat the oven to 350\u00b0F. Line an 8-inch square pan.",
-        "Melt butter and let it cool slightly. Stir in sugar and eggs, then fold in cocoa and flour.",
-        "Spread into the prepared pan. Bake for about 25 minutes, checking for moist crumbs. Cool before slicing."
+        "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan, preferably glass.",
+        "<br>Mix flour, baking powder, baking soda, and salt in a bowl. ",
+        "<br><br>Stir bananas, milk, and cinnamon in another bowl.",
+        "Beat sugar and butter together in a third bowl with an electric mixer until light and fluffy; add eggs one at a time, beating well after each addition.",
+        "Stir banana mixture into butter mixture; mix in flour mixture until just blended. Fold in chocolate chips; pour batter into the prepared loaf pan.",
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack before slicing.",
+        "Slice and enjoy!"
       ],
       "notes": [
         "Scaling quantities may require a different pan and baking time.",
