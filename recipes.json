@@ -507,34 +507,101 @@
           "note": ""
         },
         {
-          "name": "sugar",
+          "name": "All Purpose Flour",
+          "amount": 1,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ground Flaxseed",
           "amount": 0.25,
           "unit": "cup",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "water",
-          "amount": 3,
+          "name": "Baking Soda",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Cinnamon",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Baking Powder",
+          "amount": 0.25,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Semi-Sweet Chocolate Chips",
+          "amount": 0.75,
           "unit": "cups",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "ice",
+          "name": "Unsalted Butter (room temp)",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": "Wet"
+        },
+        {
+          "name": "Sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": "Wet"
+        },
+        {
+          "name": "Brown Sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": "Wet"
+        },
+        {
+          "name": "1 Large Egg + 1 Egg Yolk",
           "amount": null,
           "unit": "",
-          "quantityText": "As needed",
-          "note": ""
+          "quantityText": "",
+          "note": "Wet"
+        },
+        {
+          "name": "Vanilla Extract",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": "Wet"
         }
       ],
       "steps": [
-        "Stir sugar into a little warm water until dissolved.",
-        "Add the remaining water and lemon juice. Taste and adjust.",
-        "Serve over ice."
+        "Preheat the oven to 350 degrees F.",
+        "In a medium bowl, combine the oats, flour, ground flaxseed, baking soda, cinnamon, baking powder and salt.",
+        "To the bowl of your Kitchenaid (or in a separate bowl), add the butter, sugar and brown sugar. Beat for 3-4 minutes, until creamy and fluffy. Then add the egg, egg yolk and vanilla and beat until combined.",
+        "Add the dry ingredients to bowl and beat until combined.",
+        "Fold in the chocolate chips.",
+        "Scoop the dough into 1-inch balls out and place on the baking sheet 2-3 inches apart. Flatten cookies to desired thickness before baking (they stay roughly the same shape). Top with more chocolate chips if desired.",
+        "Bake for 10 minutes then let cool on pan for 5 minutes before transferring to a wire rack to finish cooling."
       ],
       "notes": [
-        "Adjust sweetness to your preference."
+        "Recipe Page: https://laurenfitfoodie.com/healthy-oatmeal-chocolate-chip-cookies/#wprm-recipe-container-36096"
       ]
     }
   ]
