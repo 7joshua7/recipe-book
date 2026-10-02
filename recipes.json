@@ -532,8 +532,8 @@
           "name": "Shallot",
           "amount": 1,
           "unit": "",
-          "quantityText": "Finely Chopped",
-          "note": ""
+          "quantityText": "",
+          "note": "Finely Chopped"
         },
         {
           "name": "Minced Garlic (from 4-6 cloves)",
