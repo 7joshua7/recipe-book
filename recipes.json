@@ -124,6 +124,124 @@
       ]
     },
     {
+      "id": "orange-choco-banana-bread",
+      "title": "Orange-Spiced Chocolate Chip Banana Bread",
+      "category": "desserts",
+      "rating": 5,
+      "servings": 10,
+      "prepMinutes": 30,
+      "cookMinutes": 60,
+      "photo": "images/orange_choc_banana.png",
+      "sample": false,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "All-purpose Flour",
+          "amount": 1.25,
+          "unit": "cups",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Kosher Salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Baking Soda",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ground Cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Freshly Grated Nutmeg",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Sugar",
+          "amount": 1,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Butter",
+          "amount": 0.5,
+          "unit": "cup",
+          "quantityText": "",
+          "note": "1 Stick Softened"
+        },
+        {
+          "name": "Fresh Orange Zest",
+          "amount": 2,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": "Finely Zested. 2 Oranges Worth"
+        },
+        {
+          "name": "Very Ripe Bananas",
+          "amount": 1.5,
+          "unit": "cups",
+          "quantityText": "",
+          "note": "or 2 Large Ripe Bananas"
+        },
+        {
+          "name": "Eggs",
+          "amount": 2,
+          "unit": "",
+          "quantityText": "",
+          "note": "Beaten"
+        },
+        {
+          "name": "Orange Bitters",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": "Optional"
+        },
+        {
+          "name": "Chocolate Chips",
+          "amount": 1,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Preheat oven to 350ºF/175°C. Lightly grease or spray with cooking spray a 4.5x8.5 loaf pan. For easier removal of the loaf, line the bottom of the loaf pan with parchment paper and then lightly grease or spray the parchment.",
+        "Whisk or sift together the flour, salt, baking soda, cinnamon and nutmeg until well blended. Set aside.",
+        "In a large bowl or mixer, cream together sugar, butter and orange zest until light and fluffy (make sure they are well creamed together – if not fluffy enough, the center may sink after the loaf is baked.)",
+        "Add bananas and mix together until bananas are mashed and well blended into the butter mixture. Beat in eggs and orange bitters (if using) until combined.",
+        "Stir flour mixture into banana mixture until just combined. Be careful not to over mix. Stir in the chocolate chips.",
+        "Pour batter into the prepared loaf pan.",
+        "Bake for about 1 hour, or until a toothpick inserted into center comes out clean (chocolate on the toothpick doesn't count).",
+        "Allow to cool for 10 minutes before removing the loaf from the pan. Loosen the edges, then pop loose the bottom."
+      ],
+      "notes": [
+        "Bananas: Start with really ripe bananas. They give a better sweetness and moistness to the banana bread over semi-ripe banana. If you need to expedite ripening the bananas, put them in a paper bag for a day or two.",
+        "Orange: The fresher the oranges, the better the zest will be. The oils in citrus zest start to dry out after being picked, so if you can get your hands on some freshly picked oranges, the zest will be amazing!",
+        "Orange bitters give the loaf a extra little kick of flavor. Use it if you have them, but don’t worry if you don’t have any orange bitters. The banana bread is still excellent without the orange bitters.",
+        "Chocolate: Use chocolate chips, chunks, or whatever you like. We prefer a nice dark chocolate chip. Or leave out the chocolate completely you prefer.",
+        "Butter: Use salted butter or unsalted butter, whichever you have on hand. If using unsalted butter, add a touch more salt to the recipe.",
+        "Make sure the butter and sugar are well creamed together enough. It doesn’t happen often to us when we use a stand mixer, but will sometime when using a hand mixer. The batter won’t be aerated enough, making it too dense and not allowing it to bake all the way through the center.",
+        "Lining the loaf pan with parchment will make taking the finished loaf out of the pan so much easier. We highly recommend using it if you have some. It doesn’t even need to line the whole pan, just a wide strip about the length of the pan and going up two sides is perfect. Make sure to leave it high enough to grab onto after the loaf bakes.",
+        "Recipe Page: https://whiteonricecouple.com/orange-chocolate-banana-bread/"
+      ]
+    },
+    {
       "id": "chicken-piccata",
       "title": "Chicken Piccata",
       "category": "meals",
