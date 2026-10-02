@@ -391,7 +391,7 @@
         },
         {
           "name": "Ground Cinnamon",
-          "amount": 1,
+          "amount": 1.5,
           "unit": "tsp",
           "quantityText": "",
           "note": ""
@@ -425,7 +425,7 @@
           "note": "Finely Zested. 2 Oranges Worth"
         },
         {
-          "name": "Very Ripe Bananas",
+          "name": "3 Very Ripe Bananas",
           "amount": 1.5,
           "unit": "cups",
           "quantityText": "",
