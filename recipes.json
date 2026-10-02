@@ -880,7 +880,7 @@
         },
         {
           "name": "Cinnamon",
-          "amount": 0.5,
+          "amount": 1,
           "unit": "tsp",
           "quantityText": "",
           "note": ""
@@ -936,7 +936,7 @@
         },
         {
           "name": "Vanilla Extract",
-          "amount": 1,
+          "amount": 1.5,
           "unit": "tsp",
           "quantityText": "",
           "note": "Wet"
