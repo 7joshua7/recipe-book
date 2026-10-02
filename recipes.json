@@ -440,36 +440,36 @@
           "name": "Ketchup",
           "amount": 0.75,
           "unit": "cup",
-          "quantityText": "Meatloaf Sauce Ingredients",
-          "note": ""
+          "quantityText": "",
+          "note": "Meatloaf Sauce Ingredients"
         },
         {
           "name": "White Vinegar",
           "amount": 1.5,
           "unit": "tsp",
-          "quantityText": "Meatloaf Sauce Ingredients",
-          "note": ""
+          "quantityText": "",
+          "note": "Meatloaf Sauce Ingredients"
         },
         {
           "name": "Brown Sugar",
           "amount": 2,
           "unit": "tbsp",
-          "quantityText": "Meatloaf Sauce Ingredients",
-          "note": ""
+          "quantityText": "",
+          "note": "Meatloaf Sauce Ingredients"
         },
         {
           "name": "Garlic Powder",
           "amount": 0.5,
           "unit": "tsp",
-          "quantityText": "Meatloaf Sauce Ingredients",
-          "note": ""
+          "quantityText": "",
+          "note": "Meatloaf Sauce Ingredients"
         },
         {
           "name": "Onion Powder",
           "amount": 0.5,
           "unit": "tsp",
-          "quantityText": "Meatloaf Sauce Ingredients",
-          "note": ""
+          "quantityText": "",
+          "note": "Meatloaf Sauce Ingredients"
         }
       ],
       "steps": [
@@ -488,21 +488,21 @@
       ]
     },
     {
-      "id": "lemonade",
-      "title": "Fresh Lemonade",
-      "category": "drinks",
-      "rating": 3.5,
-      "servings": 4,
-      "prepMinutes": 10,
-      "cookMinutes": 0,
-      "photo": "",
-      "sample": true,
+      "id": "chocolate-cookies",
+      "title": "Chocolate Chip Cookies",
+      "category": "desserts",
+      "rating": 5,
+      "servings": 22,
+      "prepMinutes": 15,
+      "cookMinutes": 10,
+      "photo": "images/choc_cookies.jpg",
+      "sample": false,
       "tags": [],
       "ingredients": [
         {
-          "name": "lemon juice",
-          "amount": 0.5,
-          "unit": "cup",
+          "name": "Old Fashioned Oats",
+          "amount": 2,
+          "unit": "cups",
           "quantityText": "",
           "note": ""
         },
