@@ -337,64 +337,154 @@
         "Slice and enjoy!"
       ],
       "notes": [
-        ""
+        "Recipe Page: https://www.allrecipes.com/recipe/230482/banana-chocolate-chip-bread/"
       ]
     },
     {
-      "id": "yogurt-sauce",
-      "title": "Herby Yogurt Sauce",
-      "category": "sauces",
+      "id": "meatloaf",
+      "title": "Meatloaf",
+      "category": "meals",
       "rating": 4,
-      "servings": 4,
-      "prepMinutes": 10,
-      "cookMinutes": 0,
-      "photo": "",
-      "sample": true,
+      "servings": 8,
+      "prepMinutes": 15,
+      "cookMinutes": 65,
+      "photo": "images/meatloaf.jpg",
+      "sample": false,
       "tags": [],
       "ingredients": [
         {
-          "name": "plain Greek yogurt",
+          "name": "Ground Beef",
+          "amount": 2,
+          "unit": "lbs",
+          "quantityText": "",
+          "note": "85% or 80% lean"
+        },
+        {
+          "name": "1 Medium Onion",
           "amount": 1,
           "unit": "cup",
           "quantityText": "",
-          "note": ""
+          "note": "Finely Chopped"
         },
         {
-          "name": "lemon juice",
+          "name": "Olive Oil",
           "amount": 1,
-          "unit": "tbsp",
+          "unit": "tsp",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "chopped fresh herbs",
+          "name": "Large Eggs",
+          "amount": 2,
+          "unit": "",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Garlic Cloves",
+          "amount": 3,
+          "unit": "",
+          "quantityText": "",
+          "note": "Minced"
+        },
+        {
+          "name": "Ketchup",
           "amount": 2,
           "unit": "tbsp",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "garlic clove",
-          "amount": 1,
-          "unit": "",
+          "name": "Fresh Parsley",
+          "amount": 3,
+          "unit": "tbsp",
+          "quantityText": "",
+          "note": "Finely Chopped"
+        },
+        {
+          "name": "Panko Breadcrumbs",
+          "amount": 0.75,
+          "unit": "cup",
           "quantityText": "",
           "note": ""
         },
         {
-          "name": "salt and pepper",
-          "amount": null,
-          "unit": "",
-          "quantityText": "To taste",
+          "name": "Milk",
+          "amount": 0.333333,
+          "unit": "cup",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Italian Seasoning",
+          "amount": 1,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ground Black Pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "",
+          "note": ""
+        },
+        {
+          "name": "Ketchup",
+          "amount": 0.75,
+          "unit": "cup",
+          "quantityText": "Meatloaf Sauce Ingredients",
+          "note": ""
+        },
+        {
+          "name": "White Vinegar",
+          "amount": 1.5,
+          "unit": "tsp",
+          "quantityText": "Meatloaf Sauce Ingredients",
+          "note": ""
+        },
+        {
+          "name": "Brown Sugar",
+          "amount": 2,
+          "unit": "tbsp",
+          "quantityText": "Meatloaf Sauce Ingredients",
+          "note": ""
+        },
+        {
+          "name": "Garlic Powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "Meatloaf Sauce Ingredients",
+          "note": ""
+        },
+        {
+          "name": "Onion Powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "quantityText": "Meatloaf Sauce Ingredients",
           "note": ""
         }
       ],
       "steps": [
-        "Finely grate the garlic.",
-        "Mix all ingredients in a bowl. Taste and adjust the seasoning.",
-        "Chill until ready to serve."
+        "Prep - Line a rimmed baking sheet with parchment paper or foil for easier cleanup, and preheat oven to 350°F.",
+        "Sautee Onions - Set a medium skillet over medium heat. Add 1 tsp oil and chopped onion and saute, stirring occasionally, until softened and golden, about 5-7 minutes. Transfer to a plate to cool.",
+        "Make the Meatloaf Mixture - In a large bowl, add all of the meatloaf ingredients and the cooled onions and mix just until well combined (your hands are your best tool for mixing - put on disposable gloves if you want to).",
+        "Shape Meatloaf and Bake - Add meat to the pan and shape it into a meatloaf about 8 inches long, 4 inches wide, and 3 inches tall. Bake uncovered at 350˚F for 40 minutes.",
+        "Make the Sauce - In a small bowl, add the sauce ingredients and stir to combine.",
+        "Add the Glaze - Spread the sauce over the Meatloaf, then return to the oven and bake an additional 20 minutes or until the internal temperature is 160˚F on an instant-read thermometer. Rest the meatloaf for 10-15 minutes before serving and it will be much easier to slice."
       ],
       "notes": [
-        "Sample recipe. Use your own storage guidance."
+        "*Meat Variations - You can replace half the meat with ground turkey, chicken, or pork (or even Italian sausage). Note: poultry must be baked to 165˚F.",
+        "Do Not Overmix - Mix until the meat mixture is just combined so you don’t end up with a dense meatloaf.",
+        "To Bake in a loaf pan - Line the loaf pan with parchment paper for easier removal. Gently press your meat mixture into your loaf pan and bake following the same instructions, but increase the temperature to 375˚F, or it will take longer to cook through.",
+        "Recipe Page: https://natashaskitchen.com/wprm_print/58365"
       ]
     },
     {
