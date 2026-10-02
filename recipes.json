@@ -124,8 +124,8 @@
       ]
     },
     {
-      "id": "banana-chocolate-bread",
-      "title": "Banana Chocolate Chip Bread",
+      "id": "ocolate-bread",
+      "title": "ocolate Chip Bread",
       "category": "desserts",
       "rating": 4.5,
       "servings": 4,
@@ -281,8 +281,7 @@
         "Slice and enjoy!"
       ],
       "notes": [
-        "Scaling quantities may require a different pan and baking time.",
-        "A fractional egg can be measured by beating it first."
+        ""
       ]
     },
     {
